@@ -1,4 +1,4 @@
-Nuestro proyecto tiene el objetivo de profundizar en el preciodado a balones de balonmano en una página web.
+Nuestro proyecto tiene el objetivo de profundizar en el precio dado a balones de balonmano en una página web.
 
 A partir del scrapeo y el análisis de los datos encontrados, hemos llegado a las siguientes conclusiones, reflexiones:
 
