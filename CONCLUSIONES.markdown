@@ -27,4 +27,4 @@ Vemos que hay diferentes marcas, y que algunas de ellas tienen muy pocos ejempla
 ![Dispersion](https://github.com/mariadelascotrina/web-scrapping-miniproject_Maria/blob/main/Dispersi%C3%B3n%20de%20precio%20por%20marca.png)
 
 
-El precio varía en función de la marca, habiendo una marca claramente "líder". Además observamos que aquellas marcas que solo tienen un ejemplar, son de precio bajo 
+El precio varía en función de la marca, habiendo una marca claramente "líder". Además observamos que aquellas marcas que solo tienen uno o dos ejemplares, son de precio bajo 
