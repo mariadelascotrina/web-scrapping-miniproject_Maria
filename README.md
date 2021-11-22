@@ -6,7 +6,7 @@ Queremos analizar los precios de balones de balonmano de una página web
 Cómo:
 Hemos Scrappeado la página web y luego hemos hecho un estudio de marca y precio
 
-Tecnología utilizada
+Qué tecnología hemos utilizado:
 - from selenium import webdriver
 - from selenium.webdriver.chrome.options import Options
 - import time
